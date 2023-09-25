@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Contracts\\Contracts.csproj": {}
+  },
+  "projects": {
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

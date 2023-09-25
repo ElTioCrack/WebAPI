@@ -1,0 +1,30 @@
+E:\Il\TE\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.deps.json
+E:\Il\TE\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.dll
+E:\Il\TE\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.pdb
+E:\Il\TE\2023-09-22\WS\Contracts\bin\Debug\net6.0\Models.dll
+E:\Il\TE\2023-09-22\WS\Contracts\bin\Debug\net6.0\Models.pdb
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.dll
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.pdb
+E:\Il\TE\2023-09-22\WS\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\bin\Debug\net6.0\Models.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\bin\Debug\net6.0\Models.pdb
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Contracts\obj\Debug\net6.0\ref\Contracts.dll

@@ -1,0 +1,12 @@
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\bin\Debug\net6.0\Tools.deps.json
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\bin\Debug\net6.0\Tools.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\bin\Debug\net6.0\Tools.pdb
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\refint\Tools.dll
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.pdb
+D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\ref\Tools.dll

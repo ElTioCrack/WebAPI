@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\WS\\WS.csproj": {}
+  },
+  "projects": {
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj"
+              },
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj",
+        "projectName": "LN",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj"
+              },
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj"
+              },
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
+        "projectName": "Tools",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Konscious.Security.Cryptography.Argon2": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\WS\\WS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\WS\\WS.csproj",
+        "projectName": "WS",
+        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\WS\\WS.csproj",
+        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\WS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj"
+              },
+              "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
+                "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
