@@ -10,3 +10,15 @@ D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\ne
 D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\refint\Tools.dll
 D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\Tools.pdb
 D:\Univalle\6to Semestre\Tecnologias Emergentes\2023-09-22\WS\Tools\obj\Debug\net6.0\ref\Tools.dll
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\bin\Debug\net6.0\Tools.deps.json
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\bin\Debug\net6.0\Tools.dll
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\bin\Debug\net6.0\Tools.pdb
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.dll
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\refint\Tools.dll
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\Tools.pdb
+E:\Il\TE\2023-09-25\WebAPI\WebAPI\Tools\obj\Debug\net6.0\ref\Tools.dll

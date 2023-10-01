@@ -108,20 +108,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ilian\\.nuget\\packages\\": {}
+    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
+      "projectUniqueName": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Tools\\Tools.csproj",
       "projectName": "Tools",
-      "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
-      "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
-      "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\obj\\",
+      "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Tools\\Tools.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Tools\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

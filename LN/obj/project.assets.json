@@ -2740,20 +2740,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ilian\\.nuget\\packages\\": {}
+    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj",
+      "projectUniqueName": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\LN\\LN.csproj",
       "projectName": "LN",
-      "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\LN.csproj",
-      "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
-      "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\LN\\obj\\",
+      "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\LN\\LN.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\LN\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2766,14 +2774,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\DAL\\DAL.csproj"
+            "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\DAL\\DAL.csproj": {
+              "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\DAL\\DAL.csproj"
             },
-            "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj": {
-              "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj"
+            "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Models\\Models.csproj": {
+              "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Models\\Models.csproj"
             },
-            "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {
-              "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj"
+            "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Tools\\Tools.csproj": {
+              "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Tools\\Tools.csproj"
             }
           }
         }

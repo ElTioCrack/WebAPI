@@ -62,9 +62,9 @@ namespace DAL.Repositories
 
 			// Actualiza las propiedades de la persona existente
 			existingPerson.Username = person.Username;
-			existingPerson.Password = person.Password;
+			existingPerson.Password = Argon2Hasher.GenerateHash(person.Password);
 
-			_context.Persons.Update(existingPerson);
+            _context.Persons.Update(existingPerson);
 			_context.SaveChanges();
 
 			return true;
