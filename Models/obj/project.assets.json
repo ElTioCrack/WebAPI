@@ -8,28 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Ilian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "E:\\Il\\TE\\2023-09-25\\WebAPI\\WebAPI\\Models\\obj\\",
+      "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
+      "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
