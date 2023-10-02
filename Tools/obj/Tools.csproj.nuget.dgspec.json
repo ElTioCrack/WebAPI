@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {}
+    "E:\\Il\\TE\\2023-10-02\\WebAPI\\Tools\\Tools.csproj": {}
   },
   "projects": {
-    "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj": {
+    "E:\\Il\\TE\\2023-10-02\\WebAPI\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
+        "projectUniqueName": "E:\\Il\\TE\\2023-10-02\\WebAPI\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\Ilian\\.nuget\\packages\\",
-        "outputPath": "D:\\Univalle\\6to Semestre\\Tecnologias Emergentes\\2023-09-22\\WS\\Tools\\obj\\",
+        "projectPath": "E:\\Il\\TE\\2023-10-02\\WebAPI\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "E:\\Il\\TE\\2023-10-02\\WebAPI\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
